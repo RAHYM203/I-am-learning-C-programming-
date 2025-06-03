@@ -1,8 +1,6 @@
-/* Task 6 Write a program that calculates the perimeter and area of a square 
-for the length of the side of the square provided by the user. The program should be protected
-against entering incorrect data, i.e the length of the side of the square should be positive.
-Otherwise, the program should write a warning message and stop. Use the IF-ELSE conditional
-statement. */
+/* Task 6 Request the side length of a square from the user.
+If the input is positive, calculate and display the square's perimeter and area.
+Otherwise, show a warning. */
 
 #include<stdio.h>
 
