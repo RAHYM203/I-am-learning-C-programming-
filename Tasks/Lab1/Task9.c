@@ -1,8 +1,5 @@
-/* Task 9. Write a program that calculates the area of a trapezoid for positive
-numbers a, b,h (lengths of the bases and height) given by the user, displaying an
-appropriate message on the screen. The program should be protected against entering
-incorrect data, i.e. the lengths a, b, h should be positive. 
-Otherwise, the program should write a warning message and stop. Use the IF-ELSE instruction.*/
+/* Task 9. Ask the user to input the lengths of both bases (a, b) and the height (h)
+of a trapezoid. Validate the input and compute the area using the trapezoid area formula.*/
 
 #include<stdio.h>
 
