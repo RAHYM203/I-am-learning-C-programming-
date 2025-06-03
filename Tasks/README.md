@@ -1,12 +1,3 @@
-# C Programming Lab Tasks
+# Note
 
-This folder contains my C programming tasks for Labs 1 to 9.  
-Each lab covers different topics such as:
-
-Variables & Data Types
-Loops
-Math Functions
-File Handling
-Pointers and Arrays
-
-## Structure
+This repository contains my personal C programming practice, based on tasks assigned in the Programming in C course at SWPS University. Task descriptions are paraphrased and shared for learning purposes only.
