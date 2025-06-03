@@ -1,7 +1,5 @@
-/*Task 8. Write a program that calculates the surface area and volume of a cube for
-a user-specified length of the cube's edge. The program should be protected against
-entering incorrect data, i.e. the length of the cube's edge should be positive.
-Otherwise, the program should write a warning message and stop. Use the IF-ELSE statement.*/
+/*Task 8. Calculate the surface area and volume of a cube based on the user-provided 
+edge length. Input must be a positive value; otherwise, show a warning..*/
 
 #include<stdio.h>
 
