@@ -1,5 +1,5 @@
-/* Task4 Write a program that multiplies two real numbers (FLOAT type) entered by the user. 
-Take care of the appropriate formatting of the result and messages guiding the user through data entry. */
+/* Task 4. Ask the user to input two floating-point numbers. 
+Multiply them and print the result with proper formatting. */
 
 #include<stdio.h>
 
