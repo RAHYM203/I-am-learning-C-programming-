@@ -1,4 +1,4 @@
-/* Task2 Write a program that prints the message "I like programming in C!!!" on the screen. */
+/* Task 2. Write a program that prints the message: "I like programming in C!!!" to the screen.*/
 
 #include<stdio.h>
 
