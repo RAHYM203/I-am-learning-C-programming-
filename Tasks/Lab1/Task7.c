@@ -1,8 +1,5 @@
-/* Task 7. Write a program that divides two real numbers (FLOAT type) entered by the user. 
-Take care of the appropriate formatting of the result and messages guiding the user 
-through the data entry, and also protect the program against division by the number zero,
-i.e. if the second number is zero, the program should not calculate the result, 
-but print a warning message and stop. */
+/* Task 7.Accept two real numbers from the user and perform division.
+If the second number is zero, display an error instead of attempting the calculation.. */
 
 #include<stdio.h>
 
