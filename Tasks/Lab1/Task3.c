@@ -1,4 +1,4 @@
-/* Task3 Write a program that adds two integer numbers (INT type) entered by user. */
+/* Task 3. Prompt the user to enter two integers. Read the input and display their sum. */
 
 #include<stdio.h>
 
