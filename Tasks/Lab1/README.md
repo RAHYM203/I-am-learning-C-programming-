@@ -38,3 +38,8 @@ Task 9. Calculate area of a trapezoid using 3 validated inputs.
 All programs were tested and executed successfully using the  
 
 [OnlineGDB C Compiler](https://www.onlinegdb.com/online_c_compiler)
+
+
+# Note
+
+This repository contains my personal practice code based on Lab 1 tasks from the Programming in C course at SWPS University. Task summaries are paraphrased and shared solely for learning and educational purposes
