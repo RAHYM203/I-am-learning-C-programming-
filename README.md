@@ -1,4 +1,4 @@
-![Coding](assets/cprogram.gif)
+![Coding](blob/main/cprogram.gif)
 
 
 ## C Programming
