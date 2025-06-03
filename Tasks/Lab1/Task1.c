@@ -1,4 +1,5 @@
-/*Task1 Write any program in C that does not perform any actions.*/
+/*Task1 Create an empty program that compiles and runs successfully but performs 
+no operations.*/
 
 #include<stdio.h>
 
