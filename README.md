@@ -1,4 +1,4 @@
-![Alt Text](https://www.reddit.com/r/Blockbench/comments/14twtpm/c_and_c_icons/)
+!(https://www.reddit.com/r/Blockbench/comments/14twtpm/c_and_c_icons/)
 
 ## C Programming
 
