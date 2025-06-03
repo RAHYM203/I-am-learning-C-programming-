@@ -1,5 +1,5 @@
-/* Task5 Write a program that, for an integer entered by user, 
-calculates its square and cube and prints appropriate messages on the screen. */
+/* Task 5. Ask the user to enter an integer, then calculate and
+display both its square and cube. */
 
 #include<stdio.h>
 
