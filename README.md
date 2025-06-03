@@ -1,3 +1,4 @@
+![Coding](assets/cprogram.gif)
 
 
 ## C Programming
